@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BaseOftech-LOGO.jpeg" alt="BaseOfTech" width="238">
+  <img src="BaseOftech-LOGO.png" alt="BaseOfTech" width="238">
 </p>
 
 <p align="center">
