@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/odysseus-wordmark.png" alt="Odysseus" width="238">
+  <img src="BaseOftech-LOGO.jpeg" alt="BaseOfTech" width="238">
 </p>
 
 <p align="center">
